@@ -1,4 +1,3 @@
-/* Save as style.css beside index.html. No JavaScript or external dependencies. */
 :root {
     --black:#111111;
     --graphite:#242424;
@@ -178,7 +177,6 @@ h2 {
 .skip-link:focus {
     transform:none
 }
-/* Header */
 .header {
     background:#111;
     color:#fff;
@@ -247,7 +245,6 @@ h2 {
 .mobile-menu {
     display:none
 }
-/* Hero */
 .hero {
     position:relative;
     min-height:740px;
@@ -334,7 +331,6 @@ h2 {
 .hero__bottom-note {
     color:#ccc
 }
-/* Production */
 .about__grid {
     display:grid;
     grid-template-columns:1fr 1.08fr;
@@ -412,7 +408,6 @@ h2 {
     line-height:1.7;
     margin-top:14px
 }
-/* Model catalogue */
 .products {
     background:#f0f0ee
 }
@@ -582,7 +577,6 @@ h2 {
     grid-column:1;
     grid-row:1
 }
-/* Editorial advantages */
 .advantages__grid {
     display:grid;
     grid-template-columns:1fr 1fr;
@@ -642,7 +636,6 @@ h2 {
 .advantages__list .advantage:last-child {
     border-bottom:1px solid var(--line)
 }
-/* Bespoke */
 .custom {
     display:grid;
     grid-template-columns:1fr 1fr;
@@ -679,7 +672,6 @@ h2 {
 .custom__content .button {
     margin-top:32px
 }
-/* Contact */
 .contacts__grid {
     display:grid;
     grid-template-columns:1fr 1fr;
@@ -803,7 +795,6 @@ h2 {
     color:#666;
     margin-top:14px
 }
-/* Footer */
 .footer {
     background:#111;
     color:#fff;
